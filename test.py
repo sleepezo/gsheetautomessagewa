@@ -18,14 +18,3 @@ for i in range(1,4):
     pwk.sendwhatmsg_instantly(base, "PC Building Group https://chat.whatsapp.com/HoTxB8Py5wRFic49tsNWdD", 20, tab_close=True)
 
 
-
-# list_of_lists = worksheet.get_all_values()
-
-# print(list_of_lists)
-
-
-
-
-# pwk.sendwhatmsg("+60104246844", "PC Building Group https://chat.whatsapp.com/HoTxB8Py5wRFic49tsNWdD", 13, 56) # hr, min
-# pwk.sendwhatmsg_instantly("+60104246844", "Test msg.", 20, tab_close=True)
-
